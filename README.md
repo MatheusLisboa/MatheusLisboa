@@ -1,31 +1,56 @@
+# Olá, eu sou Matheus Lisboa 👋
 
-# 👋 Sobre mim
+Profissional de TI com experiência em **Quality Assurance** e background sólido em
+Suporte Técnico e Infraestrutura. Atualmente também desenvolvendo habilidades em
+**Back-End com Python**, unindo visão de qualidade com capacidade de construir sistemas.
 
-Olá! Me chamo Matheus Lisboa, sou apaixonado por tecnologia e atualmente estou em transição de carreira para a área de Desenvolvimento Back-End.
-Tenho experiência sólida com Suporte Técnico e Infraestrutura de TI, o que me ajudou a desenvolver uma ótima capacidade de resolver problemas, pensar de forma lógica e trabalhar com responsabilidade.
-
-🎓 Atualmente curso Sistemas de Informação e estou focado em aprender e criar projetos com Python, APIs REST, Flask e Django.
-📁 Aqui no meu GitHub compartilho meus estudos, projetos pessoais e desafios de código voltados para o desenvolvimento back-end e integração com bancos de dados.
+Curso **Sistemas de Informação** na Estácio e acredito que entender como um sistema
+é testado torna o desenvolvedor melhor — e vice-versa.
 
 ---
 
-## 🛠️ Tecnologias que venho estudando:
-- Python
-- Flask & Django
-- SQL e Banco de Dados Relacionais (PostgreSQL / MySQL)
-- APIs REST
-- Git & GitHub
-- HTML5 & CSS3 (para integração com o back)
-- Docker (iniciante)
+## 🧪 Quality Assurance
+
+Área onde tenho experiência prática, incluindo atuação no **Nees/UFAL**:
+
+- Testes manuais, exploratórios e automatizados em sistemas web e APIs REST
+- Automação com **Playwright** e **Cypress**
+- Criação de casos de teste baseados em requisitos técnicos e funcionais
+- Integração de testes em pipelines **CI/CD**
+- Metodologias ágeis: Scrum e Kanban
+
+---
+
+## 🛠️ Back-End em construção
+
+Projetos e estudos focados em desenvolvimento back-end:
+
+- **Python** (intermediário)
+- **Flask & Django**
+- **APIs REST**
+- **SQL** — PostgreSQL e MySQL
+- **Docker** (iniciante)
+- HTML5 & CSS3 (integração com back)
+
+---
+
+## 📁 O que você encontra aqui
+
+- Projetos de automação de testes com Playwright e Cypress
+- APIs e sistemas back-end em Python
+- Scripts utilitários e estudos de SQL
+- Desafios de código e aprendizado contínuo
 
 ---
 
 ## 🚀 Objetivos
-- Conseguir minha primeira oportunidade como Desenvolvedor Back-End Júnior.
-- Aprimorar meus conhecimentos em arquitetura de sistemas, APIs e bancos de dados.
-- Construir projetos práticos e contribuir com a comunidade dev.
+
+- Consolidar carreira em **QA com automação**
+- Evoluir como **desenvolvedor back-end**
+- Contribuir com projetos reais e comunidade dev
 
 ---
 
-## 📫 Onde me encontrar:
-- 💼 [LinkedIn](https://linkedin.com/in/matheuslisboa-dev)
+## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheuslisboa--dev-blue?logo=linkedin)](https://linkedin.com/in/matheuslisboa-dev)

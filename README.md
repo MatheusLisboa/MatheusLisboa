@@ -1,56 +1,62 @@
 # Olá, eu sou Matheus Lisboa 👋
 
-Profissional de TI com experiência em **Quality Assurance** e background sólido em
-Suporte Técnico e Infraestrutura. Atualmente também desenvolvendo habilidades em
-**Back-End com Python**, unindo visão de qualidade com capacidade de construir sistemas.
+QA Lead em transição para Desenvolvimento Front-End e Full Stack, com experiência em qualidade de software, automação de testes e construção de aplicações web modernas.
 
-Curso **Sistemas de Informação** na Estácio e acredito que entender como um sistema
-é testado torna o desenvolvedor melhor — e vice-versa.
+Atualmente curso **Sistemas de Informação** na Estácio e desenvolvo projetos focados em usabilidade, interfaces modernas e soluções SaaS. Minha experiência em QA me proporciona uma visão diferenciada sobre arquitetura, usabilidade, confiabilidade e experiência do usuário durante o desenvolvimento.
 
 ---
 
-## 🧪 Quality Assurance
+## 🚀 Tecnologias & Ferramentas
 
-Área onde tenho experiência prática, incluindo atuação no **Nees/UFAL**:
+### Desenvolvimento
 
-- Testes manuais, exploratórios e automatizados em sistemas web e APIs REST
-- Automação com **Playwright** e **Cypress**
-- Criação de casos de teste baseados em requisitos técnicos e funcionais
-- Integração de testes em pipelines **CI/CD**
-- Metodologias ágeis: Scrum e Kanban
+* HTML & CSS
+* React & Next.js
+* TypeScript & JavaScript
+* TailwindCSS
+* Node.js
+* Python
+* APIs REST
+* PostgreSQL & MySQL
+* Supabase
+* Git & GitHub
 
----
+### Quality Assurance
 
-## 🛠️ Back-End em construção
-
-Projetos e estudos focados em desenvolvimento back-end:
-
-- **Python** (intermediário)
-- **Flask & Django**
-- **APIs REST**
-- **SQL** — PostgreSQL e MySQL
-- **Docker** (iniciante)
-- HTML5 & CSS3 (integração com back)
-
----
-
-## 📁 O que você encontra aqui
-
-- Projetos de automação de testes com Playwright e Cypress
-- APIs e sistemas back-end em Python
-- Scripts utilitários e estudos de SQL
-- Desafios de código e aprendizado contínuo
+* Playwright & Cypress
+* Testes automatizados e exploratórios
+* CI/CD
+* Testes de APIs REST
+* Scrum & Kanban
 
 ---
 
-## 🚀 Objetivos
+## 📁 Projetos
 
-- Consolidar carreira em **QA com automação**
-- Evoluir como **desenvolvedor back-end**
-- Contribuir com projetos reais e comunidade dev
+Aqui você encontrará projetos voltados para:
+
+* Aplicações Front-End modernas
+* Sistemas Full Stack
+* Plataformas SaaS
+* Automação de testes
+* Dashboards e sistemas de gerenciamento
+* Estudos e experimentos com novas tecnologias
+
+Atualmente estou publicando projetos constantemente para evoluir minhas habilidades práticas em desenvolvimento e arquitetura de software.
+
+---
+
+## 🎯 Objetivos
+
+* Atuar como Desenvolvedor Front-End ou Full Stack Jr
+* Construir aplicações escaláveis e com ótima experiência de usuário
+* Unir qualidade de software com desenvolvimento moderno
+* Evoluir continuamente através de projetos reais
 
 ---
 
 ## 📫 Contato
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-matheuslisboa--dev-blue?logo=linkedin)](https://linkedin.com/in/matheuslisboa-dev)
+* LinkedIn: linkedin.com/in/matheuslisboa-dev
+* GitHub: github.com/matheuslisboa
+* Whatsapp: https://w.app/matheuslisboa-dev
